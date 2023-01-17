@@ -7,6 +7,4 @@ kutya
 macska
 tengerimalac
 bence
-majom
-elefánt
-béka
+egér
