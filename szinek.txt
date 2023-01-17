@@ -2,3 +2,5 @@ piros
 narancs
 citrom
 zöld
+kék
+lila
